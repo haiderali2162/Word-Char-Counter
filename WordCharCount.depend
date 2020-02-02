@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1580630592 source:c:\wordcharcount\src\wordcharcount.cpp
+	"WordCharCount.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1580630422 c:\wordcharcount\include\wordcharcount.h
+	<fstream>
+	<string>
+
+1580630608 source:c:\wordcharcount\main.cpp
+	<iostream>
+	"WordCharCount.h"
+
